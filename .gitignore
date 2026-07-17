@@ -1,0 +1,12 @@
+# Virtual environments
+myenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+*.swp
